@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="<?= base_url('css/bootstrap.min.css')?>" >
     <link rel="stylesheet" href="<?= base_url('css/style.css')?>">
-    <title>test dsd blog</title>
+    <title>HOME</title>
   </head>
   <body>
     <div class="row">
